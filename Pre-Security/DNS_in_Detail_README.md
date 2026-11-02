@@ -5,7 +5,7 @@
 **Environnement de révision :** Kali Linux / VirtualBox  
 **Thèmes :** DNS, résolution de noms, réseaux
 
-## Résumé en anglais
+## English summary
 
 This write-up covers what I learned about the Domain Name System (DNS) during the TryHackMe Pre Security learning path.
 
