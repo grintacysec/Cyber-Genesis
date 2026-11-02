@@ -1,17 +1,17 @@
-# 🌐 Network Fundamentals — TryHackMe
+#  Network Fundamentals — TryHackMe
 
 **Learning Path :** Pre Security  
 **Module :** Network Fundamentals  
 **Domaine :** Réseaux / Networking  
 **Langue :** Français 🇫🇷
 
-## 🇬🇧 English Summary
+## English Summary
 
 This write-up summarizes the **Network Fundamentals** module from TryHackMe's *Pre Security* learning path. It covers how devices communicate, IP and MAC addressing, local network topologies, the OSI model, packets and frames, TCP and UDP, as well as basic network protection technologies. It focuses on the concepts I studied; practical results are not claimed unless documented.
 
 ---
 
-## 📌 Objectif
+## Objectif
 
 Comprendre comment les appareils communiquent au sein d'un réseau, comment les données circulent entre eux et quels protocoles permettent ces échanges.
 
@@ -21,7 +21,7 @@ L'objectif est de comprendre ce qui se passe réellement lorsqu'une machine comm
 
 ---
 
-## 🔍 1. Comprendre le fonctionnement d'un réseau
+## 1. Comprendre le fonctionnement d'un réseau
 
 ### Réseau local et Internet
 
@@ -60,7 +60,7 @@ Une réponse permet de constater que la destination répond à ce test. En revan
 
 ---
 
-## 🖧 2. Réseaux locaux et topologies
+## 2. Réseaux locaux et topologies
 
 Dans cette partie, j'ai découvert que la manière dont les équipements sont connectés influence directement la fiabilité et la maintenance d'un réseau.
 
@@ -106,7 +106,7 @@ Ce mécanisme évite de devoir configurer manuellement chaque appareil d'un rés
 
 ---
 
-## 📦 3. Le modèle OSI : comprendre le voyage des données
+## 3. Le modèle OSI : comprendre le voyage des données
 
 Le modèle **OSI (Open Systems Interconnection)** représente les communications réseau à travers sept couches.
 
@@ -138,7 +138,7 @@ Un routeur travaille notamment au niveau de la couche 3, tandis qu'un switch Eth
 
 ---
 
-## 🔄 4. Packets & Frames : TCP et UDP
+## 4. Packets & Frames : TCP et UDP
 
 ### Paquets et trames
 
@@ -186,7 +186,7 @@ Il faut également distinguer un port ouvert, un port fermé et un port filtré 
 
 ---
 
-## 🛡️ 5. Étendre et sécuriser un réseau
+## 5. Étendre et sécuriser un réseau
 
 La dernière partie du module introduit plusieurs technologies utilisées pour connecter et protéger les réseaux.
 
@@ -210,7 +210,7 @@ Selon la technologie et la configuration utilisées, il peut protéger les commu
 
 ---
 
-## 🎯 Résultat et apprentissages
+## Résultat et apprentissages
 
 Ce module m'a permis de mieux comprendre les mécanismes fondamentaux des communications réseau.
 
@@ -232,7 +232,7 @@ Ce module constitue donc une base importante pour la suite de mon apprentissage 
 
 ---
 
-## 📚 Protocoles, outils et concepts étudiés
+## Protocoles, outils et concepts étudiés
 
 - **Diagnostic :** `ping`, ICMP.
 - **Adressage :** IPv4, IPv6, MAC.
